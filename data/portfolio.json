@@ -1,7 +1,7 @@
 {
-    "name": "Narek",
+    "name": "Erik",
     "headerTaglineOne": "Hello 👋",
-    "headerTaglineTwo": "I'm Narek Gaboyan",
+    "headerTaglineTwo": "I'm Erik Gaboyan",
     "headerTaglineThree": "designer and photographer",
     "headerTaglineFour": " based in HHS, Glendale",
     "showCursor": true,
@@ -9,23 +9,23 @@
     "projects": [
       {
         "id": "1",
-        "title": "Mouse",
-        "imageSrc": "/images/msg5885937949-97031.jpg"
+        "title": "Stage 1 - Reborn",
+        "imageSrc": "/images/one.jpg"
       },
       {
         "id": "2",
-        "title": "Mouse and a Burger",
-        "imageSrc": "/images/msg5885937949-97032.jpg"
+        "title": "Theatre",
+        "imageSrc": "/images/four.jpg"
       },
       {
         "id": "3",
-        "title": "Mouse looking up",
-        "imageSrc": "/images/msg5885937949-97033.jpg"
+        "title": "Human Faces",
+        "imageSrc": "/images/three.jpg"
       },
       {
         "id": "4",
-        "title": "Mouse on the Glass",
-        "imageSrc": "/images/msg5885937949-97034.jpg"
+        "title": "MUSICIAL WONDERS AROUND WORLD",
+        "imageSrc": "/images/five.jpg"
 
       }
     ],
