@@ -1,7 +1,7 @@
 {
     "name": "Erik",
     "headerTaglineOne": "Hello 👋",
-    "headerTaglineTwo": "I'm Erik Gaboyan",
+    "headerTaglineTwo": "I'm Narek Gaboyan",
     "headerTaglineThree": "designer and photographer",
     "headerTaglineFour": " based in HHS, Glendale",
     "showCursor": true,
@@ -10,22 +10,22 @@
       {
         "id": "1",
         "title": "Stage 1 - Reborn",
-        "imageSrc": "/images/one.jpg"
+        "imageSrc": "/images/oneone.jpg"
       },
       {
         "id": "2",
-        "title": "Theatre",
-        "imageSrc": "/images/four.jpg"
+        "title": "Mouse",
+        "imageSrc": "/images/twotwo.jpg"
       },
       {
         "id": "3",
-        "title": "Human Faces",
-        "imageSrc": "/images/three.jpg"
+        "title": "Burger",
+        "imageSrc": "/images/threethree.jpg"
       },
       {
         "id": "4",
-        "title": "MUSICIAL WONDERS AROUND WORLD",
-        "imageSrc": "/images/five.jpg"
+        "title": "Statue",
+        "imageSrc": "/images/fourfour.jpg"
 
       }
     ],
